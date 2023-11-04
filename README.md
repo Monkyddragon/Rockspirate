@@ -1,3 +1,4 @@
 # Rockspirate
-My first git repository
-author - Md Ziaul Hasan
+My first git repository.
+<br>
+Author - Md Ziaul Hasan
